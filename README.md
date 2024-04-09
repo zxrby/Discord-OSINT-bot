@@ -31,6 +31,6 @@ Provide instructions on how to use your software here.
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
 ![Discord_TjIrmimIiA](https://github.com/zxrby/Discord-OSINT-bot/assets/79419506/98deb48e-b993-4a33-8c30-948b164754b0)
-
+(pandabuy)
 
 
